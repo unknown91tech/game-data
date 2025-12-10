@@ -1,4 +1,4 @@
-timestamp,northtexas_cents,northtexas_decimal,northtexas_probability,tulane_cents,tulane_decimal,tulane_probability,latency_ms
+timestamp,tulane_cents,tulane_decimal,tulane_probability,northtexas_cents,northtexas_decimal,northtexas_probability,latency_ms
 2025-12-05 19:06:00.976,60,1.68,0.60,49,2.05,0.49,552
 2025-12-05 19:06:02.016,60,1.68,0.60,49,2.05,0.49,536
 2025-12-05 19:06:03.072,60,1.68,0.60,49,2.05,0.49,554
